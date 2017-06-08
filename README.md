@@ -7,4 +7,4 @@ A gulp project for image minification
 * put the required images in the `in` folder
 * Run the `gulp` command (`gulp`)
 * wait (you may want to get a coffe or something)
-* grab ypur minified images from the `out` folder
+* grab your minified images from the `out` folder
