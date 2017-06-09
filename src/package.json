@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "A gulp project for image minification",
   "main": "gulpfile.js",
-  "repository": "https://github.com/guaxinimgames/imgnator"
-  "scripts": {
-  },
+  "repository": "https://github.com/guaxinimgames/imgnator",
   "keywords": [
     "gulp",
     "img",
